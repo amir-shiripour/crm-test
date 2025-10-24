@@ -1,0 +1,10 @@
+{
+  "name": "Clinic",
+  "slug": "clinic",
+  "required_features": [
+    "customer_manage",
+    "appointments",
+    "patient_records"
+  ],
+  "description": "Clinic theme with appointments and patient record features."
+}

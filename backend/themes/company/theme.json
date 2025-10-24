@@ -1,0 +1,10 @@
+{
+  "name": "Company",
+  "slug": "company",
+  "required_features": [
+    "customer_manage",
+    "reporting",
+    "team_management"
+  ],
+  "description": "Corporate theme with team and reporting modules."
+}

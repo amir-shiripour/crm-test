@@ -1,0 +1,8 @@
+{
+  "css": [
+    "modules/customer/css/customer.css"
+  ],
+  "js": [
+    "modules/customer/js/customer.js"
+  ]
+}

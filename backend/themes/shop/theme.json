@@ -1,0 +1,10 @@
+{
+  "name": "Shop",
+  "slug": "shop",
+  "required_features": [
+    "customer_manage",
+    "orders",
+    "inventory"
+  ],
+  "description": "E-commerce focused theme enabling orders and inventory."
+}
